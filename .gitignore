@@ -1,0 +1,3 @@
+# Project exclude paths
+/rocketmq-sample-consumer/target/
+/rocketmq-sample-producer/target/
